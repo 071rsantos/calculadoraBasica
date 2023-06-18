@@ -1,0 +1,9 @@
+body{
+    height: 98.3vh;
+    width: 95vw;
+    background: linear-gradient(rgb(0,225,225), #000);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
